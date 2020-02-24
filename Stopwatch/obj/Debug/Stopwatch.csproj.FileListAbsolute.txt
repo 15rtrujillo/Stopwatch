@@ -1,0 +1,8 @@
+c:\users\ryant_000\documents\visual studio 2012\Projects\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe.config
+c:\users\ryant_000\documents\visual studio 2012\Projects\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe
+c:\users\ryant_000\documents\visual studio 2012\Projects\Stopwatch\Stopwatch\bin\Debug\Stopwatch.pdb
+c:\users\ryant_000\documents\visual studio 2012\Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.frmStopwatch.resources
+c:\users\ryant_000\documents\visual studio 2012\Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.Properties.Resources.resources
+c:\users\ryant_000\documents\visual studio 2012\Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.GenerateResource.Cache
+c:\users\ryant_000\documents\visual studio 2012\Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.exe
+c:\users\ryant_000\documents\visual studio 2012\Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.pdb
