@@ -67,7 +67,7 @@
             this.lblTime.Font = new System.Drawing.Font("Microsoft Sans Serif", 36F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblTime.Location = new System.Drawing.Point(52, 9);
             this.lblTime.Name = "lblTime";
-            this.lblTime.Size = new System.Drawing.Size(279, 55);
+            this.lblTime.Size = new System.Drawing.Size(345, 69);
             this.lblTime.TabIndex = 6;
             this.lblTime.Text = "00:00:00.00";
             // 
@@ -106,7 +106,7 @@
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterParent;
             this.Text = "Stopwatch";
             this.TopMost = true;
-            this.Load += new System.EventHandler(this.frmStopwatch_Load);
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.frmStopwatch_FormClosed);
             this.ResumeLayout(false);
             this.PerformLayout();
 

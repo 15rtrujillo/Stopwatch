@@ -53,6 +53,7 @@
     <Compile Include="frmStopwatch.Designer.cs">
       <DependentUpon>frmStopwatch.cs</DependentUpon>
     </Compile>
+    <Compile Include="GlobalKeyboardHookEventArgs.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="frmStopwatch.resx">

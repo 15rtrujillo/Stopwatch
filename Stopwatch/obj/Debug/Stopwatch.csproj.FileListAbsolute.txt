@@ -6,3 +6,12 @@ c:\users\ryant_000\documents\visual studio 2012\Projects\Stopwatch\Stopwatch\obj
 c:\users\ryant_000\documents\visual studio 2012\Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.GenerateResource.Cache
 c:\users\ryant_000\documents\visual studio 2012\Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.exe
 c:\users\ryant_000\documents\visual studio 2012\Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.pdb
+E:\Ryan\Documents\Visual Studio 2012\Projects\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe.config
+E:\Ryan\Documents\Visual Studio 2012\Projects\Stopwatch\Stopwatch\bin\Debug\Stopwatch.exe
+E:\Ryan\Documents\Visual Studio 2012\Projects\Stopwatch\Stopwatch\bin\Debug\Stopwatch.pdb
+E:\Ryan\Documents\Visual Studio 2012\Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.frmStopwatch.resources
+E:\Ryan\Documents\Visual Studio 2012\Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.Properties.Resources.resources
+E:\Ryan\Documents\Visual Studio 2012\Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.GenerateResource.cache
+E:\Ryan\Documents\Visual Studio 2012\Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.csproj.CoreCompileInputs.cache
+E:\Ryan\Documents\Visual Studio 2012\Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.exe
+E:\Ryan\Documents\Visual Studio 2012\Projects\Stopwatch\Stopwatch\obj\Debug\Stopwatch.pdb
